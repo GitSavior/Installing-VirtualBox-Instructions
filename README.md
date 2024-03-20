@@ -31,8 +31,3 @@ Download & Install VirtualBox
 #### Step 4: Install Vitual Box
 
 ![4](https://github.com/GitSavior/Installing-VirtualBox-Instructions/assets/162067776/1fb79b00-b74f-4d1d-ad44-07983ec2e34e)
-
-
-#### Step 5: Installation Complete
-
-![5](https://github.com/GitSavior/Installing-VirtualBox-Instructions/assets/162067776/a94f8198-2827-4a9f-ac98-2cdf4ecab0f4)
